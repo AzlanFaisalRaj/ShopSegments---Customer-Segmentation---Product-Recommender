@@ -3,7 +3,6 @@
 Segment e-commerce customers by behaviour (RFM + K-Means) and recommend products to each customer (ALS collaborative filtering), served through a Streamlit dashboard a marketing team can use.
 
 - **Live demo:** `<add Streamlit Cloud URL>`
-- **Demo video (2-3 min):** `<add Loom / YouTube URL>`
 - **Repository:** `<add GitHub URL>`
 
 ## Problem
@@ -26,7 +25,7 @@ Online stores often send the same promotion to every customer, which wastes budg
 | Recommendations | Top-10 products for a selected customer; "customers who bought this also bought" for a selected product |
 | New customer | Popularity-based recommendations for customers with no history, plus a small tool that assigns a segment from Recency / Frequency / Monetary |
 
-Screenshots: `<add images to docs/ and link here>`
+Screenshots: ![alt text](image.png)
 
 ## Approach
 
