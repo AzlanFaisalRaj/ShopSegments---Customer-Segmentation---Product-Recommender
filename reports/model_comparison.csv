@@ -1,0 +1,6 @@
+model,clusters,noise_%,silhouette
+K-Means (k=4),4,0.0,0.366
+Gaussian Mixture (k=4),4,0.0,0.223
+"DBSCAN (eps=0.3, min_samples=10)",3,5.801,0.162
+"DBSCAN (eps=0.4, min_samples=10)",2,2.535,0.281
+"DBSCAN (eps=0.5, min_samples=10)",2,1.429,0.278

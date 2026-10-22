@@ -1,0 +1,7 @@
+step,rows_after,rows_removed
+start (combined raw),1067371,0
+drop exact duplicates,1033036,34335
+drop null date/qty/price,1033036,0
+drop missing Customer ID,797885,235151
+drop cancelled invoices,779495,18390
+drop Quantity<=0 or Price<=0,779425,70

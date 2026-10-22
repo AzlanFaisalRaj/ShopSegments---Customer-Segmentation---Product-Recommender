@@ -1,0 +1,4 @@
+,Precision@10,Recall@10,Coverage
+Popularity (baseline),0.104,0.035,0.002
+Item-based CF,0.059,0.021,0.19
+ALS,0.112,0.069,0.414
