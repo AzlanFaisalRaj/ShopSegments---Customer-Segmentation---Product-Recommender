@@ -2,8 +2,8 @@
 
 Segment e-commerce customers by behaviour (RFM + K-Means) and recommend products to each customer (ALS collaborative filtering), served through a Streamlit dashboard a marketing team can use.
 
-- **Live demo:** `<add Streamlit Cloud URL>`
-- **Repository:** `<add GitHub URL>`
+- **Live demo:** [`<add Streamlit Cloud URL>`](https://shopsegments---customer-segmentation---appuct-recommender-bjeq.streamlit.app/)
+- **Repository:** [`<add GitHub URL>`](https://github.com/AzlanFaisalRaj/ShopSegments---Customer-Segmentation---Product-Recommender.git)
 
 ## Problem
 
